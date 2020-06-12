@@ -1,4 +1,4 @@
-<img src="https://github.com/alvarosantosph/Curso-React-Redux/blob/master/Fundamentos/fundamentos-react/fundamentos.png">
+<img src="https://github.com/alvarosantosph/Curso-React-Redux/blob/master/Todo-App/todoApp.png">
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
