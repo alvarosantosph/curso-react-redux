@@ -1,4 +1,4 @@
-<img src="https://github.com/alvarosantosph/Curso-React-Redux/blob/master/Calculadora/calculadora/exercicio-sem-redux.png">
+<img src="https://github.com/alvarosantosph/Curso-React-Redux/blob/master/Exercicio-Gerenciamento-Estado-Sem-Redux/redux-simples/exercicio-sem-redux.png">
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
