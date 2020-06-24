@@ -1,3 +1,5 @@
+<img src="https://github.com/alvarosantosph/Curso-React-Redux/blob/master/Exercicio-Gerenciamento-Estado-Com-Redux/redux-simples/exercicio-com-redux.png">
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
