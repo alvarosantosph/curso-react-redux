@@ -9,6 +9,8 @@ Curso React + Redux: Fundamentos e 2 Apps do Absoluto ZERO!
 	<img src="https://img.shields.io/badge/-Redux-purple?style=for-the-badge" alt="Redux">
 </div>
 
+<br />
+
 https://www.udemy.com/course/react-redux-pt/
 
 ## Contato
